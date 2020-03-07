@@ -1,0 +1,10 @@
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\bin\Debug\HarfNotuOrtalama.exe.config
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\bin\Debug\HarfNotuOrtalama.exe
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\bin\Debug\HarfNotuOrtalama.pdb
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.csprojAssemblyReference.cache
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.Form1.resources
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.Properties.Resources.resources
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.csproj.GenerateResource.cache
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.exe
+C:\Users\Yavuz\source\repos\HarfNotuOrtalama\HarfNotuOrtalama\obj\Debug\HarfNotuOrtalama.pdb
