@@ -1,2 +1,2 @@
 # Ortalama Hesabı
- basit not ortalaması hesaplama
+ basit  ortalama hesaplama uygulaması
